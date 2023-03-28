@@ -1,0 +1,6 @@
+Tranzactia efectuata din suma: 200, din valuta: USD, in valuta: EUR, este cumparata cu: 180
+Tranzactia efectuata din suma: 1000, din valuta: BGN, in valuta: EUR, este cumparata cu: 500
+Tranzactia efectuata din suma: 2500, din valuta: USD, in valuta: EUR, este cumparata cu: 2250
+Tranzactia efectuata din suma: 200, din valuta: GBP, in valuta: EUR, este cumparata cu: 228
+Tranzactia efectuata din suma: 200, din valuta: AUD, in valuta: EUR, este cumparata cu: 122
+Tranzactia efectuata din suma: 1000, din valuta: AUD, in valuta: EUR, este cumparata cu: 610

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{470282D5-B5EB-4255-A820-F958EF7AE835}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Casa_schimb_Valutar_2</RootNamespace>
+    <AssemblyName>Casa_schimb_Valutar_2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IEnumerator.cs" />
+    <Compile Include="IMedia.cs" />
+    <Compile Include="TranzactiiValute.cs" />
+    <Compile Include="Vezi_Curs_Valutar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vezi_Curs_Valutar.Designer.cs">
+      <DependentUpon>Vezi_Curs_Valutar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cursuri_valutare.cs" />
+    <Compile Include="modifica_valute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modifica_valute.Designer.cs">
+      <DependentUpon>modifica_valute.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PortofoliuValutar.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Schimba_bani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Schimba_bani.Designer.cs">
+      <DependentUpon>Schimba_bani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transfera_bani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transfera_bani.Designer.cs">
+      <DependentUpon>Transfera_bani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tranzactii.cs" />
+    <Compile Include="Valute.cs" />
+    <Compile Include="Verifica_tranzactii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Verifica_tranzactii.Designer.cs">
+      <DependentUpon>Verifica_tranzactii.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Vezi_Curs_Valutar.resx">
+      <DependentUpon>Vezi_Curs_Valutar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modifica_valute.resx">
+      <DependentUpon>modifica_valute.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Schimba_bani.resx">
+      <DependentUpon>Schimba_bani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transfera_bani.resx">
+      <DependentUpon>Transfera_bani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Verifica_tranzactii.resx">
+      <DependentUpon>Verifica_tranzactii.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

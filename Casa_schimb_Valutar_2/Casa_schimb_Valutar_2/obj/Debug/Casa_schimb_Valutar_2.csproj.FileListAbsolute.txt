@@ -1,0 +1,15 @@
+C:\Users\isabe\OneDrive\Desktop\Casa_schimb_Valutar_2\Casa_schimb_Valutar_2\bin\Debug\Casa_schimb_Valutar_2.exe.config
+C:\Users\isabe\OneDrive\Desktop\Casa_schimb_Valutar_2\Casa_schimb_Valutar_2\bin\Debug\Casa_schimb_Valutar_2.exe
+C:\Users\isabe\OneDrive\Desktop\Casa_schimb_Valutar_2\Casa_schimb_Valutar_2\bin\Debug\Casa_schimb_Valutar_2.pdb
+C:\Users\isabe\OneDrive\Desktop\Casa_schimb_Valutar_2\Casa_schimb_Valutar_2\obj\Debug\Casa_schimb_Valutar_2.csproj.AssemblyReference.cache
+C:\Users\isabe\OneDrive\Desktop\Casa_schimb_Valutar_2\Casa_schimb_Valutar_2\obj\Debug\Casa_schimb_Valutar_2.Form1.resources
+C:\Users\isabe\OneDrive\Desktop\Casa_schimb_Valutar_2\Casa_schimb_Valutar_2\obj\Debug\Casa_schimb_Valutar_2.Properties.Resources.resources
+C:\Users\isabe\OneDrive\Desktop\Casa_schimb_Valutar_2\Casa_schimb_Valutar_2\obj\Debug\Casa_schimb_Valutar_2.csproj.GenerateResource.cache
+C:\Users\isabe\OneDrive\Desktop\Casa_schimb_Valutar_2\Casa_schimb_Valutar_2\obj\Debug\Casa_schimb_Valutar_2.csproj.CoreCompileInputs.cache
+C:\Users\isabe\OneDrive\Desktop\Casa_schimb_Valutar_2\Casa_schimb_Valutar_2\obj\Debug\Casa_schimb_Valutar_2.exe
+C:\Users\isabe\OneDrive\Desktop\Casa_schimb_Valutar_2\Casa_schimb_Valutar_2\obj\Debug\Casa_schimb_Valutar_2.pdb
+C:\Users\isabe\OneDrive\Desktop\Casa_schimb_Valutar_2\Casa_schimb_Valutar_2\obj\Debug\Casa_schimb_Valutar_2.Verifica_tranzactii.resources
+C:\Users\isabe\OneDrive\Desktop\Casa_schimb_Valutar_2\Casa_schimb_Valutar_2\obj\Debug\Casa_schimb_Valutar_2.transferuri.resources
+C:\Users\isabe\OneDrive\Desktop\Casa_schimb_Valutar_2\Casa_schimb_Valutar_2\obj\Debug\Casa_schimb_Valutar_2.Schimba_bani.resources
+C:\Users\isabe\OneDrive\Desktop\Casa_schimb_Valutar_2\Casa_schimb_Valutar_2\obj\Debug\Casa_schimb_Valutar_2.Vezi_Curs_Valutar.resources
+C:\Users\isabe\OneDrive\Desktop\Casa_schimb_Valutar_2\Casa_schimb_Valutar_2\obj\Debug\Casa_schimb_Valutar_2.modifica_valute.resources

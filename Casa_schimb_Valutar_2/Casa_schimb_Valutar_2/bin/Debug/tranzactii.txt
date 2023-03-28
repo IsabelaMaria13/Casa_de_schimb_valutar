@@ -1,0 +1,7 @@
+Tranzactia cu id - ul: 5858,in valoare de:500, de tipul: CHF,din contul:ROBRDE45,a fost trimisa in contul:ROBRDE45
+Tranzactia cu id - ul: 5872,in valoare de:1000, de tipul: GBP,din contul:ALFG67738,a fost trimisa in contul:FBGH76821
+
+Tranzactia cu id - ul: 7856,in valoare de:300, de tipul: EUR,din contul:123456789012345678901234,a fost trimisa in contul:123456789012345678901234
+Tranzactia cu id - ul: 4621,in valoare de:9, de tipul: EUR,din contul:123456789012345678901234,a fost trimisa in contul:123456789012345678901234
+Tranzactia cu id - ul: 318,in valoare de:1234, de tipul: BGN,din contul:123456789012345678901234,a fost trimisa in contul:123456789012345678901234
+Tranzactia cu id - ul: 1187,in valoare de:445, de tipul: CHF,din contul:123456789012345678901234,a fost trimisa in contul:123456789012345678901234

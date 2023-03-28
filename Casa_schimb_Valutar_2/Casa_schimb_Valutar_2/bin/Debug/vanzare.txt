@@ -1,0 +1,3 @@
+Tranzactia efectuata din suma: 200, din valuta: EUR, in valuta: JPY, este vanduta cu: 28200
+Tranzactia efectuata din suma: 2500, din valuta: EUR, in valuta: RON, este vanduta cu: 12325
+Tranzactia efectuata din suma: 200, din valuta: EUR, in valuta: RON, este vanduta cu: 985.9999
